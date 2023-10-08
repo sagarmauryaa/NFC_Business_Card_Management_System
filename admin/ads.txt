@@ -1,0 +1,79 @@
+ADS - 
+    show ad details on popup in ad page
+
+    > details
+        - select from dropdown to show add / subsc id
+        - company name
+        - company logo
+        - advertiser name
+        - email
+        - number
+
+
+PDF - 
+    Publication PDF
+    - pdf head
+    - pdf desc
+    - pdf
+
+
+Form Collected -
+    - All the form on the page
+
+
+Registration Details - 
+    - All Fields & Show subscribed or not
+
+
+Referal Details - 
+    - Referred by and referred to
+
+
+Exams Page - 
+    - Coming Soon
+
+
+Career - 
+    - Post Jobs
+    - Clicking on the posted job he will get option to add questions and answers
+    - Job Applicants can be viewed on the job page
+
+
+As i see it - 
+    Add New Blog
+    Added Blogs
+
+
+Directory -
+    Enroll Requests
+    Buy Data Requests
+    Advertising Requests - upload the finished advertisemet to show user
+    
+
+Calender - 
+    Traning
+    Networking Events
+    Avian Influenza
+        - Add Event
+            start date
+            end date
+            event name
+            event desc
+            event link (optional)
+
+
+Feedback Details -
+    - Form Details
+
+
+Manage Header Banners -
+    - All banners in website
+
+Manage Homepage Background Image
+
+Boxes -
+    Total Registration
+    Total ADS
+    Total Referals
+    Total Blogs
+    Total Upcoming Events

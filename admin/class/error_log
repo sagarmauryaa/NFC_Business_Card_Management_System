@@ -1,0 +1,16 @@
+[08-Oct-2023 10:49:41 Asia/Kolkata] PHP Warning:  Undefined property: operations::$conn in /home4/incincme/public_html/febblespot/admin/class/operations.php on line 317
+[08-Oct-2023 10:49:41 Asia/Kolkata] PHP Warning:  Attempt to read property "insert_id" on null in /home4/incincme/public_html/febblespot/admin/class/operations.php on line 317
+[08-Oct-2023 10:49:41 Asia/Kolkata] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home4/incincme/public_html/febblespot/admin/config/conn.php on line 295
+[08-Oct-2023 10:50:45 Asia/Kolkata] PHP Warning:  Undefined property: operations::$conn in /home4/incincme/public_html/febblespot/admin/class/operations.php on line 317
+[08-Oct-2023 10:50:45 Asia/Kolkata] PHP Warning:  Attempt to read property "insert_id" on null in /home4/incincme/public_html/febblespot/admin/class/operations.php on line 317
+[08-Oct-2023 10:50:45 Asia/Kolkata] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home4/incincme/public_html/febblespot/admin/config/conn.php on line 295
+[08-Oct-2023 10:52:44 Asia/Kolkata] PHP Warning:  Undefined property: operations::$conn in /home4/incincme/public_html/febblespot/admin/class/operations.php on line 317
+[08-Oct-2023 10:52:44 Asia/Kolkata] PHP Warning:  Attempt to read property "insert_id" on null in /home4/incincme/public_html/febblespot/admin/class/operations.php on line 317
+[08-Oct-2023 10:52:44 Asia/Kolkata] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home4/incincme/public_html/febblespot/admin/config/conn.php on line 295
+[08-Oct-2023 11:00:26 Asia/Kolkata] PHP Warning:  Undefined property: operations::$conn in /home4/incincme/public_html/febblespot/admin/class/operations.php on line 317
+[08-Oct-2023 11:00:26 Asia/Kolkata] PHP Warning:  Attempt to read property "insert_id" on null in /home4/incincme/public_html/febblespot/admin/class/operations.php on line 317
+[08-Oct-2023 11:08:07 Asia/Kolkata] PHP Warning:  Undefined property: operations::$insert_id in /home4/incincme/public_html/febblespot/admin/class/processor.php on line 162
+[08-Oct-2023 11:08:39 Asia/Kolkata] PHP Warning:  Undefined property: operations::$insert_id in /home4/incincme/public_html/febblespot/admin/class/processor.php on line 160
+[08-Oct-2023 11:12:48 Asia/Kolkata] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home4/incincme/public_html/febblespot/admin/config/conn.php on line 295
+[08-Oct-2023 11:13:31 Asia/Kolkata] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home4/incincme/public_html/febblespot/admin/config/conn.php on line 295
+[08-Oct-2023 11:14:06 Asia/Kolkata] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home4/incincme/public_html/febblespot/admin/config/conn.php on line 295
